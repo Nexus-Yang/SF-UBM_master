@@ -1,4 +1,4 @@
-# SF-UBM_master: Federated User Behavior Modeling for LLM Recommendation
+# SF-UBM_master: Federated User Behavior Modeling for Privacy-Preserving LLM Recommendation
 
 Note: The code will be made publicly available upon the paper's acceptance.
 Thank you for your interest!
